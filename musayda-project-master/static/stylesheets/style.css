@@ -1,0 +1,75 @@
+
+.navbar {
+
+    background-color: black;
+    display:inline-block;
+    height: 50px;
+    width: 97%;
+    margin: 0px;
+
+
+}
+.navbar li {
+    display: inline;
+    margin: 50px 50px;
+    font-size: 30px;
+    background-color: black;
+    overflow: hidden;
+}
+
+
+.navbar li:hover{
+    background-color: grey;
+   
+}
+
+
+
+.form_div{
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	height: 100%;
+	width: 100%;
+	background-color: grey;
+}
+
+
+
+.inp{
+	font-size: 20px;
+	height: 30px;
+	border-radius: 25px;
+	width: 300px;
+}
+
+
+.message{
+	border-radius: 25px;
+	height: 250px;
+	width: 300px;
+}
+
+
+.poor{
+	height: 400px;
+	width: 100%;
+	background-image: url(../images/poor1.jpg);
+	background-size: 100% 100%; 
+}
+
+
+
+
+.about_us{
+	border: solid 10px;
+	margin-top: 20px;
+	height: 400px;
+	width: 99%;
+}
+
+
+.about_us h1{
+	text-align: center;
+}
+.navbar li a{text-decoration: none; }
